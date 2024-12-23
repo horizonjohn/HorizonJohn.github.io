@@ -2,7 +2,7 @@
 layout: page
 permalink: /resume/
 title: resume
-# description: 
+description: A simple CV version of mine.
 nav: false
 navigation_weight: 80
 ---

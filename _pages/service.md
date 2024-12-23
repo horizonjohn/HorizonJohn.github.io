@@ -9,11 +9,11 @@ navigation_weight: 50
 
 - <b>Conference & Journal Reviewer</b>
   <ul style="padding-left: 20px;">
-      <li>ACM CHI Conference on Human Factors in Computing Systems, <i>CHI</i></li>
-      <li>ACM Multimedia Conference, <i>MM</i></li>
-      <li>IEEE International Conference on Multimedia & Expo, <i>ICME</i></li>
-      <li>European Conference on Artificial Intelligence, <i>ECAI</i></li>
-      <li>IEEE Transactions on Intelligent Transportation Systems, <i>T-ITS</i></li>
+      <li>ACM CHI Conference on Human Factors in Computing Systems (CHI)</li>
+      <li>ACM Multimedia Conference, (MM)</li>
+      <li>IEEE International Conference on Multimedia & Expo, (ICME)</li>
+      <li>European Conference on Artificial Intelligence, (ECAI)</li>
+      <li>IEEE Transactions on Intelligent Transportation Systems, (T-ITS)</li>
     </ul>
 - <b>Teaching Assistants</b>
   <ul style="padding-left: 20px;">

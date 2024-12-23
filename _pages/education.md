@@ -7,20 +7,21 @@ nav: false
 navigation_weight: 50
 ---
 
-# 📖 Educations
-### 🎓 Master (M.E.)
-- *Sep. 2022 - Jun. 2025* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](https://ics.uci.edu/~dwu3/)
-- *Sep. 2022 - Jun. 2025* \| Design Science (Direct Admission)
+- 🎓 <b>Master (M.E.)</b>
+  <ul style="padding-left: 20px;">
+      <li><em>Sep. 2022 - Jun. 2025</em> &nbsp; | &nbsp; [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](https://ics.uci.edu/~dwu3/)
+      <li><em>Sep. 2022 - Jun. 2025</em> &nbsp; | &nbsp; Design Science (<u>Direct Admission</u>)
+    </ul>
+- 🎓 <b>Bachelor (B.E.)</b>
+  <ul style="padding-left: 20px;">
+      <li><em>Sep. 2018 - Jun. 2022</em> &nbsp; | &nbsp; [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](https://ics.uci.edu/~dwu3/)
+      <li><em>Sep. 2018 - Jun. 2022</em> &nbsp; | &nbsp; Mechanical Engineering Excellent Class (Mechatronics Engineering)
+      <li><em>Dec. 2019 - Jun. 2022</em> &nbsp; | &nbsp; Intelligent Manufacturing and Robotics Experimental Class
+      <li><em>Dec. 2020 - Jun. 2022</em> &nbsp; | &nbsp; Artificial Intelligence Experimental Class
+    </ul>
 
-
-### 🎓 Bachelor (B.E.)
-- *Sep. 2018 - Jun. 2022* \| [Donghua University](https://english.dhu.edu.cn/), Shanghai, China. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://scholar.google.com/citations?user=eCJf4qcAAAAJ)
-- *Sep. 2018 - Jun. 2022* \| Mechanical Engineering Excellent Class (Mechatronics Engineering)
-- *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class
-- *Dec. 2020 - Jun. 2022* \| Artificial Intelligence Experimental Class
-
-
-# 💻 Internships
-- *Aug. 2023 - Dec. 2023* \| [Wondershare](https://www.wondershare.com/), Changsha, China.
-   
+- 💻 <b>Internships</b>
+  <ul style="padding-left: 20px;">
+      <li><em>Aug. 2023 - Dec. 2023</em> &nbsp; | &nbsp; [Wondershare](https://www.wondershare.com/), Changsha, China.
+    </ul>
   

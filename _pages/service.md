@@ -17,10 +17,10 @@ navigation_weight: 50
     </ul>
 - <b>Teaching Assistants</b>
   <ul style="padding-left: 20px;">
-      <li>Neural Networks and Deep Learning, Hunan University, Fall 2024; Fall 2023</li>
-      <li>Data Structure and Algorithms, Hunan University, Fall 2024</li>
-      <li>Practice of Industry-Education Integration, Hunan University, Summer 2024</li>
-      <li>Data Collection and Visualization, Hunan University, Fall 2022</li>
+      <li>Neural Networks and Deep Learning, Hunan University, <u>Fall 2024; Fall 2023</u></li>
+      <li>Data Structure and Algorithms, Hunan University, <u>Fall 2024</u></li>
+      <li>Practice of Industry-Education Integration, Hunan University, <u>Summer 2024</u></li>
+      <li>Data Collection and Visualization, Hunan University, <u>Fall 2022</u></li>
     </ul>
 - <b>Campus Activities</b>
   <ul style="padding-left: 20px;">

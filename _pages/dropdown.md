@@ -1,22 +1,22 @@
 ---
 layout: page
-title: submenus
+title: Submenus
 nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: education
+  - title: Education
     permalink: /education/
   - title: divider
-  - title: awards
+  - title: Awards
     permalink: /awards/
   - title: divider
-  - title: service
+  - title: Service
     permalink: /service/
   - title: divider
-  - title: others
+  - title: Others
     permalink: /others/
   - title: divider
-  - title: resume
+  - title: Resume
     permalink: /resume/
 ---

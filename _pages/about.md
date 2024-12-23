@@ -9,7 +9,7 @@ profile:
   align: right
   image: john.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: # >
     <p>Hunan University</p>
     <p>Changsha, China</p>
   # <p>123 your address street</p>
@@ -23,11 +23,11 @@ social: true # includes social icons at the bottom of the page
 
 I have a strong `interdisciplinary` background, spanning Engineering, Science, and Design. I truly enjoy exploring the intersection of these fields, and my vision is to integrate various technologies into our daily lives to improve efficiency and quality.
 
-`Master`: My focus primarily revolved around leveraging AI powers to assist designers in enhancing their design processes, including:
+`Master`: My focus primarily revolved around leveraging AI powers to assist designers in enhancing their design process. I investigated areas like:
 - <b>Generative AI</b>: Diffusion Models, GANs, AutoEncoder.
 - <b>Basic Structure</b>: Vision Transformers, CLIP, Transformer.
-- <b>Efficient Learning</b>: Contrastive Learning, Few-shot Learning.
+- <b>Efficient Learning</b>: Self-Supervised Learning, Few-shot Learning.
 
 `Undergraduate`: I gained extensive experience in various engineering projects, focusing on the following interconnected aspects: <b>microcontroller development</b> (*Jetson Nano, Raspberry Pi and Stm32, etc.*), <b>PCB design</b> (*Altium Designer* ), and <b>mechanical modeling analysis</b> (*SolidWorks and Ansys, etc.*). Additionally, I delved into <b>web design</b> (*html/css* ), and engaged in <b>object detection</b> (*YOLO and Faster-RCNN, etc.*). In my freshman year, I joined the [<u>Dean</u>](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three research projects. The final project, for which I was responsible, yielded `significant` results. It broke the limits of technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative contracts with several industry-leading companies. Furthermore, I actively participated in various technological competitions and campus activities to enrich my academic experience and campus life as a whole.
 
-🔭 My research interests are Deep Learning and Its Applications, include `Deep Learning`, `Generative AI`, `Embedded System`, `Human-Computer Interaction`, etc.
+🔭 My research interests are Deep Learning and Its Applications, including `Generative AI`, `Embedded System`, `Human-Computer Interaction`, etc.

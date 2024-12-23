@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: awards
+title: Awards
 # description:
 nav: false
 navigation_weight: 50

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: service
+title: Service
 # description:
 nav: false
 navigation_weight: 50

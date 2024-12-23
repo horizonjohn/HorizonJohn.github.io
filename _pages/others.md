@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /others/
-title: others
+title: Others
 # description: 
 nav: false
 navigation_weight: 50

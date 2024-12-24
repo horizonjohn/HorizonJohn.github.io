@@ -46,6 +46,9 @@ navigation_weight: 50
     </ul>
 - <b>Campus Activities</b>
   <ul style="padding-left: 20px;">
-      <li><em>Sep. 2020 - Jun. 2021</em> | Buyue Vehicle Technological Association (Student Club), Donghua University, <b><i>President</i></b></li>
-      <li><em>Sep. 2020 - Jun. 2021</em> | School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b></li>
+      <li><em>Sep. 2020 - Jun. 2021</em> &nbsp; | &nbsp; Buyue Vehicle Technological Association (Student Club), Donghua University, <b><i>President</i></b></li>
+      <li><em>Sep. 2020 - Jun. 2021</em> &nbsp; | &nbsp; School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b></li>
+      <li><em>Jan. 2022</em> &nbsp; | &nbsp; Donghua University, <b><i>Shanghai Outstanding Student Club</i></b></li>
+      <li><em>Sep. 2021</em> &nbsp; | &nbsp; Donghua University, <b><i>Fiva-star Student Club</i></b> (One of 10 Awardees)</li>
+      <li><em>May. 2021</em> &nbsp; | &nbsp; Donghua University, <b><i>Fiva-star Student Union</i></b> (Only One Awardee)</li>
     </ul>

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/
-title: Awards
+permalink: /award/
+title: Award
 # description:
 nav: false
 navigation_weight: 50

@@ -8,8 +8,8 @@ children:
   - title: Experience
     permalink: /experience/
   - title: divider
-  - title: Awards
-    permalink: /awards/
+  - title: Award
+    permalink: /award/
   - title: divider
   - title: Others
     permalink: /others/

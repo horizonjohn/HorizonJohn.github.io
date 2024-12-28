@@ -199,6 +199,9 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     p {
       display: inline-block;
@@ -802,9 +805,10 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          // border-color: var(--global-highlight-color);
           border-color: var(--global-text-color);
           color: var(--global-highlight-color);
+          font-weight: bold;
+          text-decoration: underline;
         }
       }
 

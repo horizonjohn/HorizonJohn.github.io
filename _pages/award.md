@@ -10,11 +10,11 @@ navigation_weight: 50
 
 - <b>Honors</b>
   <ul style="padding-left: 20px;">
-      <li><em>Nov. 2024</em> &nbsp; | &nbsp; ACM CSCW, <b><i>Best Paper Award</i></b> (One of 5 Awardees, <u><b>1%</b></u>)</li>
+      <li><em>Nov. 2024</em> &nbsp; | &nbsp; <b><i>Best Paper Award</i></b>, ACM CSCW Conference (One of 5 Awardees, <u><b>1%</b></u>)</li>
       <li><em>Jun. 2022</em> &nbsp; | &nbsp; <b>Shanghai Outstanding Graduates</b> (<u><b>3%</b></u>)</li>
-      <li><em>May. 2021</em> &nbsp; | &nbsp; School of Mechanical Engineering at Donghua University, <b><i>Person of the Year</i></b> (One of 10 awardees)</li>
-      <li><em>Nov. 2021</em> &nbsp; | &nbsp; Donghua University, <b><i>Outstanding Student Member</i></b></li>
-      <li><em>Nov. 2021</em> &nbsp; | &nbsp; Donghua University, <b><i>Outstanding Student Club Member</i></b></li>
+      <li><em>May. 2021</em> &nbsp; | &nbsp; <b><i>Person of the Year</i></b>, School of Mechanical Engineering at Donghua University (One of 10 awardees)</li>
+      <li><em>Nov. 2021</em> &nbsp; | &nbsp; <b><i>Outstanding Student Member</i></b>, Donghua University</li>
+      <li><em>Nov. 2021</em> &nbsp; | &nbsp; <b><i>Outstanding Student Club Member</i></b>, Donghua University</li>
     </ul>
 - <b>Competitions</b>
   <ul style="padding-left: 20px;">

@@ -32,10 +32,10 @@ navigation_weight: 50
 - <b>Conference & Journal Reviewer</b>
   <ul style="padding-left: 20px;">
       <li>ACM CHI Conference on Human Factors in Computing Systems (CHI)</li>
-      <li>ACM Multimedia Conference, (MM)</li>
-      <li>IEEE International Conference on Multimedia & Expo, (ICME)</li>
-      <li>European Conference on Artificial Intelligence, (ECAI)</li>
-      <li>IEEE Transactions on Intelligent Transportation Systems, (T-ITS)</li>
+      <li>ACM Multimedia Conference (MM)</li>
+      <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
+      <li>European Conference on Artificial Intelligence (ECAI)</li>
+      <li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
     </ul>
 - <b>Teaching Assistants</b>
   <ul style="padding-left: 20px;">
@@ -49,7 +49,7 @@ navigation_weight: 50
       <li><em>Sep. 2020 - Jun. 2021</em> &nbsp; | &nbsp; Buyue Vehicle Technological Association (Student Club), Donghua University, <b><i>President</i></b></li>
       <li><em>Sep. 2020 - Jun. 2021</em> &nbsp; | &nbsp; School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b></li>
       <li><a href="#">Relevant Honors:</a></li>
-      <li><em>Jan. 2022</em> &nbsp; | &nbsp; <b><i>Shanghai Outstanding Student Club</i></b></li>
-      <li><em>Sep. 2021</em> &nbsp; | &nbsp; Donghua University, <b><i>Five-star Student Club</i></b> (One of 10 Awardees)</li>
-      <li><em>May. 2021</em> &nbsp; | &nbsp; Donghua University, <b><i>Five-star Student Union</i></b> (Only One Awardee)</li>
+      <li><em>Jan. 2022</em> &nbsp; | &nbsp; <b><i>Shanghai Outstanding Student Club</i></b> for the Buyue Vehicle Technological Association</li>
+      <li><em>Sep. 2021</em> &nbsp; | &nbsp; <b><i>Five-star Student Club</i></b>, Donghua University (One of 10 Awardees)</li>
+      <li><em>May. 2021</em> &nbsp; | &nbsp; <b><i>Five-star Student Union</i></b>, Donghua University (Sole Awardee)</li>
     </ul>
